@@ -12,7 +12,7 @@ $lnk = & ("$PSScriptRoot\Get-Link.ps1") $Path
 
 # Set Common Solarized Colors
 $lnk.ConsoleColors[0]="#002b36"
-$lnk.ConsoleColors[8]="#073642"
+$lnk.ConsoleColors[8]="#0E6F87"
 $lnk.ConsoleColors[2]="#586e75"
 $lnk.ConsoleColors[6]="#657b83"
 $lnk.ConsoleColors[1]="#839496"
